@@ -1,1 +1,3 @@
 This document serves no purpose other than for training on git
+
+I now edit this document by adding this line
