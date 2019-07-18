@@ -1,0 +1,1 @@
+This document serves no purpose other than for training on git
